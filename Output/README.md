@@ -2,14 +2,6 @@
 
 This folder contains screenshots and photographs captured during testing.
 
-## Output Images
-
-| File | Description |
-|------|-------------|
-| oled_normal.jpg | OLED showing Normal condition |
-| oled_warning.jpg | OLED showing Warning condition |
-| oled_critical.jpg | OLED showing Critical condition |
-| serial_output.png | Serial Monitor output |
 
 ## Test Scenarios
 
